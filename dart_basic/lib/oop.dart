@@ -1,8 +1,10 @@
+//pola
 class Animal {
   String? nama;
   int? numberOfLegs;
   int? lifeSpan;
 
+//object
   void display() {
     print("Animal nama: $nama.");
     print("Number of Legs: $numberOfLegs.");
